@@ -1,0 +1,69 @@
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3000
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:3000
+** Writing PID file to log/mongrel.pid
+** USR2 signal received.
+** Restarting with arguments:  ruby /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails start -d
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3000
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:3000
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3000
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:3000
+** Writing PID file to log/mongrel.pid
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_controller/record_identifier.rb:76: warning: Object#id will be deprecated; use Object#object_id
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_controller/record_identifier.rb:76: warning: Object#id will be deprecated; use Object#object_id
+/Users/dmyers/git/siteninja-setup/app/views/setup/_step_1.html.haml:3: warning: multiple values for a block parameter (0 for 1)
+	from /Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/capture_helper.rb:36
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/form_helper.rb:829: warning: Object#id will be deprecated; use Object#object_id
+/Users/dmyers/git/siteninja-setup/app/views/setup/_step_1.html.haml:3: warning: multiple values for a block parameter (0 for 1)
+	from /Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/capture_helper.rb:36
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/form_helper.rb:829: warning: Object#id will be deprecated; use Object#object_id
+/Users/dmyers/git/siteninja-setup/app/views/setup/_step_1.html.haml:3: warning: multiple values for a block parameter (0 for 1)
+	from /Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/capture_helper.rb:36
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/form_helper.rb:829: warning: Object#id will be deprecated; use Object#object_id
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/form_helper.rb:829: warning: Object#id will be deprecated; use Object#object_id
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/form_helper.rb:829: warning: Object#id will be deprecated; use Object#object_id
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_controller/record_identifier.rb:76: warning: Object#id will be deprecated; use Object#object_id
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_controller/record_identifier.rb:76: warning: Object#id will be deprecated; use Object#object_id
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3000
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:3000
+** Writing PID file to log/mongrel.pid
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_controller/record_identifier.rb:76: warning: Object#id will be deprecated; use Object#object_id
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.4/lib/action_view/helpers/form_helper.rb:829: warning: Object#id will be deprecated; use Object#object_id
+rm: public/index.html: No such file or directory
+(in /Users/dmyers/git/siteninja-setup)
+    applying  template: step_1.rb
+   executing  rm public/index.html from /Users/dmyers/git/siteninja-setup
+rm: public/index.html: No such file or directory
+   executing  svn co http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/acts_as_taggable_on_steroids http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/ar_mailer http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/engines http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/faker http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/fu-fu http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/haml http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/paperclip http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/permalink_fu http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/restful_authentication http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/will_paginate http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/tiny_mce http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/siteninja_blogs http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/siteninja_core http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/siteninja_pages http://66.103.153.150:86/svn/repository/siteninja/vendor/plugins/siteninja/siteninja_setup from /Users/dmyers/git/siteninja-setup/vendor/plugins/siteninja
+svn: 'siteninja_core/assets/tiny_mce' is not a working copy
+rake aborted!
+The template [step_1.rb] could not be loaded. Error: /Library/Ruby/Gems/1.8/gems/rails-2.3.4/lib/rails_generator/generators/applications/app/template_runner.rb:244:in `pwd': No such file or directory - getcwd
+
+(See full trace by running task with --trace)
+** TERM signal received.
